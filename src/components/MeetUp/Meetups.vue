@@ -1,5 +1,8 @@
 <template>
-  <div>
-    <p>The Meetups page</p>
-  </div>
+  <v-contianer>
+    <v-layout>
+      <v-flex>
+      </v-flex>
+    </v-layout>
+  </v-contianer>
 </template>
