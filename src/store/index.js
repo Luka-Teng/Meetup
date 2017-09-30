@@ -43,7 +43,7 @@ export const store = new Vuex.Store({
         imageUrl: payload.imageUrl,
         description: payload.description,
         date: payload.date,
-        id: "sdsdasdasd"
+        id: 'sdsdasdasd'
       }
       // firebase is necessary
       commit('createMeetup', meetup)

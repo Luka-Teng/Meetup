@@ -1,3 +1,7 @@
+// 一些辅助的js工具
+import './assets/general.js'
+
+// 需要引入的就是模块
 import Vue from 'vue'
 import Vuetify from 'vuetify'
 import './stylus/main.styl'
